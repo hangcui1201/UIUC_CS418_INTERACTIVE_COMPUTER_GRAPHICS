@@ -1,1 +1,3 @@
-# UIUC_CS418_INTERACTIVE_COMPUTER_GRAPHICS
+### CS418: Interactive Computer Graphics using WebGL
+
+#### Fall 2016
